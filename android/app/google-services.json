@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "429631835955",
-    "project_id": "my-notes-b54c1",
-    "storage_bucket": "my-notes-b54c1.appspot.com"
+    "project_number": "835453479319",
+    "project_id": "mynotes2",
+    "storage_bucket": "mynotes2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:429631835955:android:231ed5ee0d2ca408cfb846",
+        "mobilesdk_app_id": "1:835453479319:android:830725d10113673dcbfcd2",
         "android_client_info": {
           "package_name": "net.flame.mynotes"
         }
       },
       "oauth_client": [
         {
-          "client_id": "429631835955-pbeuiu0lp22g3ja1i7d8ilud93ldru1j.apps.googleusercontent.com",
+          "client_id": "835453479319-5a9tfsq34ba99shmltfrceipid44bpua.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA5IHDIh2JdSbZgbuWRRqS4sAV-QHL_l0E"
+          "current_key": "AIzaSyAC8rwjOGDNg2TqA8cF2u6M4AuwaOmLEus"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "429631835955-pbeuiu0lp22g3ja1i7d8ilud93ldru1j.apps.googleusercontent.com",
+              "client_id": "835453479319-5a9tfsq34ba99shmltfrceipid44bpua.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

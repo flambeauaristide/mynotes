@@ -44,40 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDNNmPF47TSlPgppF8AgmW4Q6vE6ireNfM',
-    appId: '1:429631835955:web:367d4a87cabc541ccfb846',
-    messagingSenderId: '429631835955',
-    projectId: 'my-notes-b54c1',
-    authDomain: 'my-notes-b54c1.firebaseapp.com',
-    storageBucket: 'my-notes-b54c1.appspot.com',
-    measurementId: 'G-WV8WTNSCYY',
+    apiKey: 'AIzaSyCxPiK4wHHQBZfaxL2Cvdt79PVWYHx4iK4',
+    appId: '1:835453479319:web:de6ad3455e0c33c0cbfcd2',
+    messagingSenderId: '835453479319',
+    projectId: 'mynotes2',
+    authDomain: 'mynotes2-cd672.firebaseapp.com',
+    storageBucket: 'mynotes2.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA5IHDIh2JdSbZgbuWRRqS4sAV-QHL_l0E',
-    appId: '1:429631835955:android:231ed5ee0d2ca408cfb846',
-    messagingSenderId: '429631835955',
-    projectId: 'my-notes-b54c1',
-    storageBucket: 'my-notes-b54c1.appspot.com',
+    apiKey: 'AIzaSyAC8rwjOGDNg2TqA8cF2u6M4AuwaOmLEus',
+    appId: '1:835453479319:android:830725d10113673dcbfcd2',
+    messagingSenderId: '835453479319',
+    projectId: 'mynotes2',
+    storageBucket: 'mynotes2.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBKMlKP6Tggtyi5sYlTBTmxKUNJTbRzpmc',
-    appId: '1:429631835955:ios:46700ad1c0dcec70cfb846',
-    messagingSenderId: '429631835955',
-    projectId: 'my-notes-b54c1',
-    storageBucket: 'my-notes-b54c1.appspot.com',
-    iosClientId: '429631835955-rukgd524makh36fh7b0ag37e2milm4v2.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCrliJBx_3QR5hVf5xY_uTmc2UJrmj0aY4',
+    appId: '1:835453479319:ios:ed66a04a54ba7aabcbfcd2',
+    messagingSenderId: '835453479319',
+    projectId: 'mynotes2',
+    storageBucket: 'mynotes2.appspot.com',
+    iosClientId: '835453479319-fjrcbdv6mv5tvmjrtapcrutbrtiju0ft.apps.googleusercontent.com',
     iosBundleId: 'net.flame.mynotes',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBKMlKP6Tggtyi5sYlTBTmxKUNJTbRzpmc',
-    appId: '1:429631835955:ios:46700ad1c0dcec70cfb846',
-    messagingSenderId: '429631835955',
-    projectId: 'my-notes-b54c1',
-    storageBucket: 'my-notes-b54c1.appspot.com',
-    iosClientId: '429631835955-rukgd524makh36fh7b0ag37e2milm4v2.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCrliJBx_3QR5hVf5xY_uTmc2UJrmj0aY4',
+    appId: '1:835453479319:ios:ed66a04a54ba7aabcbfcd2',
+    messagingSenderId: '835453479319',
+    projectId: 'mynotes2',
+    storageBucket: 'mynotes2.appspot.com',
+    iosClientId: '835453479319-fjrcbdv6mv5tvmjrtapcrutbrtiju0ft.apps.googleusercontent.com',
     iosBundleId: 'net.flame.mynotes',
   );
 }
