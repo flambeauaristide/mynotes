@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="net.flame.mynotes">
    <application
+   android:usesCleartextTraffic="true
         android:label="mynotes"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
